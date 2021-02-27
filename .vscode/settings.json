@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/567a3fc0-25f2-4940-b134-ebbc4bfa7964/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/one-to-one-video-call",
+    "appService.deploySubpath": "."
+}
